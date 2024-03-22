@@ -1,0 +1,7 @@
+
+    Directory: C:\Users\crowj\OneDrive\Documents\df-mod3-sdm\03-Exercise
+
+Path                     Owner                  Access
+----                     -----                  ------
+3-Evidence-Encrypted.txt BUILTIN\Administrators NT AUTHORITY\SYSTEM Allow  FullControl…
+
